@@ -1,27 +1,22 @@
-File 0-positive_or_negative.c is a C program that will assign a random number to the variable n each time it is executed, using an if statement.
 
-File 1-last_digit.c is a C program that will assign a random number to the variable n each time it is executed using another if statement.
+C - Pointers
+File 0-strcat.c is a function that concatenates two strings.
+File 1-strncat.c is a function that concatenates two strings that will use at most n bytes from src.
 
-File 2-print_alphabet.c is a C program that prints the alphabet in lowercase, followed by a new line.
+File 2-strncpy.c is a function that copies a string.
 
-File 3-print_alphabt.c is a C program that prints the alphabet in lowercase, except q and e, followed by a new line.
+File 3-strcmp.c is a function that compares two strings.
 
-File 4-print_alphabets.c is a C program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+File 4-rev_array.c a function that reverses the content of an array of integers.
 
-File 5-print_numbers.c is a C program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+File 5-string_toupper.c is a function that changes all lowercase letters of a string to uppercase.
 
-File 6-print_numberz.c is a C program that prints all single digit numbers of base 10 starting from 0, followed by a new line, using putchar.
+File 6-cap_string.c is a function that capitalizes all words of a string.
 
-File 7-print_tebahpla.c is a C program that prints the lowercase alphabet in reverse, followed by a new line.
+File 7-leet.c is a function that encodes a string into 1337.
 
-File 8-print_base16.c is a C program that prints all the numbers of base 16 in lowercase, followed by a new line.
+File 8-rot13.c is a function that encodes a string using rot13.
 
-File 9-print_comb.c is a C program that prints all possible combinations of single-digit numbers.
+File _putchar.c is a function that replaces the standard library function putchar().
 
-File 10-print_comb2.c is a C program that prints the numbers from 00 to 99.
-
-File 100-print_comb3.c is a program that prints all possible different combinations of two digits.
-
-File 101-print_comb4.c is a program that prints all possible different combinations of three digits.
-
-File 102-print_comb5.c is a program that prints all possible combinations of two two-digit numbers.
+File holberton.h is the header file containing all the function prototypes.
